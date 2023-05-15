@@ -10,6 +10,7 @@ public class Counter {
 		
 	public void reset() {
 		count = 0;
+		count = 1;
 	}
 	
 	public void increment() {
@@ -26,4 +27,4 @@ public class Counter {
 	
 }
 
-//Sucess Test
+//success
