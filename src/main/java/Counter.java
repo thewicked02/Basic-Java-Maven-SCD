@@ -25,3 +25,5 @@ public class Counter {
 	}
 	
 }
+
+//Sucess Test
