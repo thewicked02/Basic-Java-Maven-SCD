@@ -40,5 +40,3 @@ public class CounterTest {
 	}
 
 }
-
-//Increment test
